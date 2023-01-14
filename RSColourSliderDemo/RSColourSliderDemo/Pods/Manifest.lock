@@ -1,0 +1,16 @@
+PODS:
+  - RSColourSlider (1.0.7)
+
+DEPENDENCIES:
+  - RSColourSlider
+
+SPEC REPOS:
+  trunk:
+    - RSColourSlider
+
+SPEC CHECKSUMS:
+  RSColourSlider: 0f09ffdcc3bf1969a2fbe11a0708f8d59b288823
+
+PODFILE CHECKSUM: a64770c5fb58452bf05b44c5c67bb67a2fac568d
+
+COCOAPODS: 1.11.3
